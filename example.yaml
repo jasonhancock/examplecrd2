@@ -1,0 +1,7 @@
+apiVersion: "examplecrd.jasonhancock.com/v1"
+kind: "ExampleResource"
+metadata:
+  name: "testing"
+spec:
+  color: red
+  size: large
